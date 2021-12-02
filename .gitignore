@@ -24,3 +24,4 @@ yarn-error.log*
 
 #confidence data
 /src/apis/*
+!/src/apis/streams.js
